@@ -6,8 +6,7 @@
 
 .container {
     background: linear-gradient(90deg, #fff, #f1f1f1);
-    display: flex;
-    align-contents: space-between;
+    
 }
 
 
@@ -21,7 +20,7 @@
     box-shadow: 3px 3px 5px 1px rgba(29, 29, 29, 0.849);
     display: flex;
     flex-direction: row;
-    gap: 30vw;
+    justify-content: space-between;
 }
 
 .com-name {
