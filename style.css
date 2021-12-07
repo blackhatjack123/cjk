@@ -4,8 +4,10 @@
  
 }
 
-body {
+.container {
     background: linear-gradient(90deg, #fff, #f1f1f1);
+    display: flex;
+    align-contents: space-between;
 }
 
 
